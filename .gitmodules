@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "otsad"]
+	path = otsad
+	url = https://github.com/alaineiturria/otsad
+	shallow = true
+	registered = true
